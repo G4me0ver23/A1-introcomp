@@ -1,0 +1,26 @@
+Trabalho complementar de A1
+Crie um script na linguagem shell, para solucionar cada um dos problemas listados abaixo (um script por problema). A entrega das suas soluções deve consistir em um único arquivo compactado em formato zip contendo todos os arquivos necessários para avaliar as suas respostas. Não será possível adicionar novos arquivos após o envio. A prova vale 10 pontos e cada problema vale 20% deste total. A questão bônus no final vale 1 ponto, mas a nota máxima continua sendo 10.
+
+Problema 1:
+Escreva um script para tornar executáveis apenas para o usuário e seu grupo, todos os scripts em um diretório, que tiverem como primeira linha o seguinte:
+
+#!/bin/bash
+Problema 2:
+
+Utilizando o arquivo de texto `O_cortico.txt`, Romance de Aluísio Azevedo, escreva script shell que extraia do arquivo
+os seguintes resultados (um por linha):
+
+Titulo do livro
+quantidade de linhas, quantidade de palavras e quantidade de caracteres.
+Ano de Publicação do livro.
+Problema 3:
+O Arquivo palavras_antigas.lst contém uma lista de palavras antigas da língua portuguesa. que ocorrem no texto do arquivo O_cortico.txt. Escreva um script que conte o número de ocorrências de cada palavra do arquivo `palavras_antigas.lst no arquivo O_cortico.txt , salvando o resultado em um arquivo chamado ocorrencias.txt.
+O arquivo ocorrencias.txt deve conter o nome da palavra e o número de ocorrências separados por um espaço em cada linha.
+
+Problema 4
+O arquivo O_cortico.txt contém o texto do romance de Aluísio Azevedo, "O Cortiço". Escreva um script que conte o número de ocorrências de cada palavra no arquivo O_cortico.txt. O script deve ignorar as palavras de tamanho menor que 4 caracteres e as palavras que começam com uma letra maiúscula. O resultado deve ser salvo em um arquivo chamado vocabulario.txt. O arquivo vocabulario.txt não deve conter palavras repetidas e deve conter o nome da palavra e o número de ocorrências separados por um espaço em cada linha.
+
+Problema 5
+Crie um script em Bash que receba um número inteiro (n) como argumento, e produza um arquivo HTML contendo uma tabela mostrando as n palavras mais frequentes calculadas no Problema 4. Dica: crie manualmente as partes de do HTML que não dependem dos dados, em dois arquivos: início.html e fim.html. Construa as linhas da tabela de forma programática, e depois junte tudo em um arquivo final chamado palavras.html.
+
+Bônus (1 ponto): Pinte de vermelho as linhas da tabela correspondentes a palavras antigas, listadas em palavas_antigas.lst.

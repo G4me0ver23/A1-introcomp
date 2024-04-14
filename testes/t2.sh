@@ -1,3 +1,0 @@
-#!/bin/bashh
-
-echo "something"

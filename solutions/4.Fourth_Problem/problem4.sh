@@ -4,7 +4,7 @@
 > validas.txt
 
 #Considera "-" entre dois alfanumericos e apaga todos os outros nao alfanumerico, salva seomente as palvras do texto em um array
-words=($(sed -r 's/([[:alnum:]])-([[:alnum:]])/\1traco\2/g' ../../O_cortico.txt | sed "s/'/aspas/g" | sed 's/[^[:alnum:][:space:]]//g' | tr '[:punct:]' ' ' | cat))
+words=($(sed -r 's/([[:alnum:]])-([[:alnum:]])/\1traco\2/g' ../../O_cortico.txt | sed 's/--/ /g' | sed "s/'/aspas/g" | sed 's/[^[:alnum:][:space:]]//g' | cat))
 
 #Para cada palavra, verifica:
 for word in ${words[@]}; do

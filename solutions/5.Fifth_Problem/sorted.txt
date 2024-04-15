@@ -11,18 +11,18 @@
 147 tudo
 145 agora
 143 quando
-142 homem
+143 homem
+142 mulher
 141 pela
-141 mulher
 132 mesmo
 130 todos
 129 todo
 127 pelo
 126 quem
-125 estava
+126 estava
 124 sobre
 123 porque
-117 outro
+118 outro
 114 lado
 114 estalagem
 111 tinha
@@ -46,8 +46,8 @@
 88 olhos
 86 nada
 86 grande
+86 dentro
 85 fazer
-85 dentro
 84 outra
 84 nunca
 83 onde
@@ -57,24 +57,24 @@
 81 aquelle
 80 aquella
 79 fóra
+78 gente
 78 está
-77 gente
-75 corpo
+76 corpo
 72 mulata
 72 meio
 71 duas
 71 diabo
 70 vendeiro
 70 roupa
+70 disse
 69 marido
 69 horas
-69 disse
 69 d'ella
 68 novo
 68 ninguem
 67 venda
+67 isso
 67 contra
-66 isso
 66 assim
 62 defronte
 59 dinheiro
@@ -83,25 +83,25 @@
 57 serviço
 57 mãos
 57 esta
+56 tanto
 56 n'um
-55 tanto
 55 aqui
 54 parecia
 54 outros
 54 melhor
+53 instante
 53 d'elle
-52 instante
 52 cima
 51 tres
 51 tarde
 51 bocca
 50 jantar
 50 cama
+49 velho
 49 todas
 49 n'uma
-48 velho
+49 dias
 48 velha
-48 dias
 48 afinal
 47 quasi
 46 with
@@ -120,6 +120,7 @@
 41 terra
 41 pedreira
 41 debaixo
+41 chão
 40 vinha
 40 sangue
 40 porém
@@ -128,10 +129,10 @@
 39 this
 39 preciso
 39 homens
-39 chão
 39 café
 38 primeira
 38 alguma
+37 pernas
 37 pequena
 37 logar
 37 isto
@@ -140,7 +141,6 @@
 37 amigo
 36 trabalho
 36 pr'a
-36 pernas
 36 janella
 36 familia
 36 fallar
@@ -149,6 +149,7 @@
 35 forte
 35 dizer
 35 cara
+34 veio
 34 pelos
 34 menos
 34 menina
@@ -158,7 +159,6 @@
 34 durante
 34 antes
 34 annos
-33 veio
 33 tomar
 33 qual
 33 olhar
@@ -174,6 +174,7 @@
 32 estar
 32 elles
 32 d'aquella
+32 coração
 32 conta
 31 volta
 31 triste
@@ -182,7 +183,6 @@
 31 minha
 31 lavadeiras
 31 fundo
-31 coração
 31 alguns
 30 saber
 30 quero
@@ -236,6 +236,7 @@
 25 dormir
 25 d'esta
 25 caso
+25 cabellos
 25 baixo
 25 alto
 24 senão
@@ -245,7 +246,6 @@
 24 estavam
 24 crioula
 24 carne
-24 cabellos
 24 braço
 24 amor
 23 teve
@@ -282,6 +282,7 @@
 21 n'aquelle
 21 morte
 21 janellas
+21 hombro
 21 feito
 21 fazendo
 21 exclamou
@@ -300,9 +301,9 @@
 20 peixe
 20 passo
 20 mezes
+20 longe
 20 livre
 20 lhes
-20 hombro
 20 força
 20 dedos
 20 companheiros
@@ -314,12 +315,13 @@
 19 sabe
 19 ponto
 19 n'esse
-19 longe
 19 fundos
 19 fora
 19 filho
 19 estou
+19 devia
 19 costas
+19 calor
 19 atraz
 18 praia
 18 lados
@@ -328,14 +330,12 @@
 18 esquerda
 18 espera
 18 domingos
-18 devia
 18 d'elles
 18 correu
 18 copyright
 18 cheia
 18 carreira
 18 canto
-18 calor
 18 aquelles
 18 apenas
 18 acabava
@@ -346,6 +346,7 @@
 17 propria
 17 precisava
 17 peste
+17 peito
 17 negociante
 17 momento
 17 menor
@@ -362,6 +363,7 @@
 17 collegio
 17 chegou
 17 caminho
+17 barriga
 17 apezar
 17 animo
 17 andar
@@ -372,12 +374,13 @@
 16 trazia
 16 tinas
 16 sorte
+16 sentio
 16 quizer
+16 quiz
 16 quintal
 16 portas
 16 perguntou-lhe
 16 pelle
-16 peito
 16 passeio
 16 ouvir
 16 other
@@ -399,19 +402,17 @@
 16 chegava
 16 certa
 16 barulho
-16 barriga
 16 animal
 16 amante
 16 algumas
 15 vozes
 15 trouxa
 15 tomou
-15 sentio
 15 senhora
 15 razão
 15 rapariga
-15 quiz
 15 queixo
+15 prompto
 15 papel
 15 n'aquella
 15 muitos
@@ -443,7 +444,6 @@
 14 seis
 14 rapaz
 14 quaes
-14 prompto
 14 procura
 14 presença
 14 portugueza
@@ -471,6 +471,7 @@
 14 continuou
 14 caixeiros
 14 besta
+14 baixa
 14 bahiana
 14 ambas
 13 vespera
@@ -500,7 +501,6 @@
 13 chuva
 13 cerveja
 13 cabello
-13 baixa
 13 amigos
 13 agoa
 13 adiante
@@ -530,6 +530,7 @@
 12 peior
 12 palha
 12 pagar
+12 ouvio
 12 ordem
 12 numa
 12 nove
@@ -584,7 +585,6 @@
 11 pareciam
 11 palmas
 11 paletó
-11 ouvio
 11 olho
 11 objectos
 11 noites
@@ -606,6 +606,7 @@
 11 empenho
 11 ebook
 11 dous
+11 disse-lhe
 11 disposta
 11 diabos
 11 demonio
@@ -628,6 +629,7 @@
 11 bons
 11 atirou-se
 11 armazem
+11 amanhã
 10 voltou
 10 viva
 10 visitas
@@ -636,6 +638,7 @@
 10 verdade
 10 vendo
 10 vel-a
+10 umas
 10 typo
 10 trabalhar
 10 teria
@@ -662,6 +665,7 @@
 10 paragraph
 10 pagode
 10 paciencia
+10 ouvido
 10 ouviam-se
 10 novos
 10 novas
@@ -701,7 +705,6 @@
 10 escandalo
 10 enorme
 10 dito
-10 disse-lhe
 10 deve
 10 desgraçado
 10 desgraçada
@@ -720,7 +723,6 @@
 10 bigode
 10 bello
 10 anda
-10 amanhã
 10 além
 10 accrescentou
 10 access
@@ -729,7 +731,6 @@
 9 visto
 9 verdadeira
 9 ventre
-9 umas
 9 trinta
 9 tornou
 9 tentou
@@ -749,7 +750,6 @@
 9 pontos
 9 pensou
 9 patrão
-9 ouvido
 9 official
 9 odio
 9 obras
@@ -797,6 +797,7 @@
 9 coberta
 9 clara
 9 cigarro
+9 chorava
 9 chegando
 9 cedo
 9 assumpto
@@ -860,6 +861,7 @@
 8 indifferente
 8 including
 8 igual
+8 ideal
 8 hortas
 8 gritando
 8 gravata
@@ -895,7 +897,6 @@
 8 cujas
 8 conhecia
 8 coitado
-8 chorava
 8 chita
 8 chicara
 8 chale
@@ -916,6 +917,7 @@
 8 afflicta
 8 acho
 8 achava
+8 abaixo
 7 will
 7 which
 7 vira-o
@@ -984,6 +986,7 @@
 7 limpa
 7 lh'o
 7 levava
+7 lavava
 7 lavagem
 7 justo
 7 instrumentos
@@ -1031,6 +1034,7 @@
 7 comprehendeu
 7 comprar
 7 commodos
+7 commodo
 7 comia
 7 comendo
 7 colera
@@ -1065,7 +1069,6 @@
 7 achou
 7 achar
 7 about
-7 abaixo
 6 volupia
 6 voltasse
 6 vizinho
@@ -1172,7 +1175,6 @@
 6 liberdade
 6 levantou
 6 lençóes
-6 lavava
 6 lama
 6 jornaes
 6 joelhos
@@ -1183,7 +1185,6 @@
 6 insistio
 6 infernal
 6 igualmente
-6 ideal
 6 humida
 6 honestidade
 6 have
@@ -1231,6 +1232,7 @@
 6 desejos
 6 desappareceu
 6 desafio
+6 deixou
 6 deixava
 6 dar-lhe
 6 d'aquellas
@@ -1246,7 +1248,6 @@
 6 consciencia
 6 confusão
 6 comply
-6 commodo
 6 commoda
 6 commercial
 6 commentarios
@@ -1276,6 +1277,7 @@
 6 bico
 6 berrou
 6 berrava
+6 beijo
 6 bebia
 6 barro
 6 barbas
@@ -1485,6 +1487,7 @@
 5 erguendo-se
 5 entraram
 5 entendo
+5 engommado
 5 engommada
 5 encontrar
 5 embora
@@ -1501,7 +1504,6 @@
 5 descobrir
 5 desastre
 5 deixou-se
-5 deixou
 5 deixava-se
 5 dedo
 5 dando-lhe
@@ -1545,7 +1547,6 @@
 5 bradou
 5 bonde
 5 bica
-5 beijo
 5 beiços
 5 bebendo
 5 bebedeira
@@ -1725,6 +1726,7 @@
 4 part
 4 paravam
 4 parava
+4 panno
 4 pancada
 4 palpebras
 4 palmada
@@ -1894,9 +1896,9 @@
 4 erguer-se
 4 época
 4 entregue
+4 entrega
 4 enthusiasmado
 4 entender-se
-4 engommado
 4 enfiou
 4 enfiar
 4 empregados
@@ -2313,6 +2315,7 @@
 3 punha-lhe
 3 punhada
 3 pulos
+3 publica
 3 public
 3 provided
 3 protecção
@@ -2354,6 +2357,7 @@
 3 polvora
 3 policias
 3 planta
+3 pista
 3 pimentas
 3 pimenta
 3 pilhava
@@ -2388,7 +2392,6 @@
 3 paragraphs
 3 papagaios
 3 papagaio
-3 panno
 3 palpitante
 3 palma
 3 pallidez
@@ -2653,7 +2656,6 @@
 3 enxugar
 3 entrevistas
 3 entretanto
-3 entrega
 3 entrasse
 3 entrára
 3 entranhas
@@ -2959,6 +2961,7 @@
 3 acompanhamento
 3 accendia
 3 acaso
+3 acabou-se
 3 acabar
 3 acaba
 3 abutre
@@ -3404,7 +3407,6 @@
 2 pulsos
 2 puderam
 2 publicas
-2 publica
 2 puberdade
 2 prumo
 2 providencias
@@ -3456,6 +3458,7 @@
 2 preparavam
 2 preparando
 2 preparado
+2 preoccupado
 2 prender
 2 prejudicava
 2 pregou
@@ -3489,7 +3492,6 @@
 2 pobres
 2 plano
 2 pitada
-2 pista
 2 pirão
 2 pintava
 2 pintada
@@ -3730,6 +3732,7 @@
 2 mãozinha
 2 mangueira
 2 mando
+2 mandasse
 2 mandaria
 2 mandaram
 2 mandara
@@ -3983,6 +3986,7 @@
 2 freguezia
 2 fraqueza
 2 fraque
+2 franzino
 2 franzindo
 2 franca
 2 fraldas
@@ -4001,6 +4005,7 @@
 2 folia
 2 foie-gras
 2 fogoso
+2 flor
 2 flanco
 2 fizéra-se
 2 fizeram-se
@@ -4247,6 +4252,7 @@
 2 empinando
 2 empinada
 2 empenhada
+2 empafia
 2 embrulhos
 2 embirro
 2 embebida
@@ -4581,6 +4587,7 @@
 2 carregar
 2 carpinteiro
 2 carpindo
+2 carnudo
 2 carinhoso
 2 carinhosa
 2 carinhos
@@ -4686,6 +4693,7 @@
 2 barris
 2 baronato
 2 barbado
+2 barão
 2 baralho
 2 banhos
 2 bandulho
@@ -4757,6 +4765,7 @@
 2 arrastado
 2 arranjei
 2 arranjada
+2 arrancava
 2 arrancára
 2 arrancado
 2 arraial
@@ -4935,7 +4944,6 @@
 2 acceitasse
 2 acceita
 2 acanhamento
-2 acabou-se
 2 acabaram
 2 absolutamente
 2 abro
@@ -5144,7 +5152,6 @@
 1 vencer
 1 veludo
 1 velhusca
-1 velhoe
 1 velhinho
 1 velhacas
 1 velas
@@ -5153,7 +5160,6 @@
 1 vejo
 1 vejam
 1 veios
-1 veioao
 1 veia
 1 vehemente
 1 vegetava
@@ -5229,7 +5235,6 @@
 1 unia
 1 unenforceability
 1 understand
-1 umvai
 1 ululou
 1 ululante
 1 ululando
@@ -5431,7 +5436,6 @@
 1 tomára-a
 1 tomára
 1 tomando-lhe
-1 tomagora
 1 tomada
 1 tôlo
 1 tolinha
@@ -5881,7 +5885,7 @@
 1 seguiram-se
 1 seguio-o
 1 seguindo-lhe
-1 seguil-osprendam-na
+1 seguil-os
 1 seguidas
 1 seguiam-se
 1 segue
@@ -6474,7 +6478,6 @@
 1 quizeres
 1 quizerem
 1 quizera
-1 quizbem
 1 quites
 1 quitandas
 1 quintos
@@ -6555,7 +6558,6 @@
 1 publicos
 1 publicistas
 1 publication
-1 publicao
 1 pr'um
 1 prudente
 1 prudencia
@@ -6725,8 +6727,6 @@
 1 preoccupavam
 1 preoccupava
 1 preoccupados
-1 preoccupadoa
-1 preoccupado
 1 prenhes
 1 prenderia
 1 prenderem
@@ -6868,7 +6868,6 @@
 1 pitadas
 1 pistolas
 1 pistillo
-1 pistae
 1 piscava
 1 piscando
 1 pisava
@@ -6958,7 +6957,6 @@
 1 perplexa
 1 perpassou
 1 perola
-1 pernaschega-te
 1 permutando
 1 permittiram
 1 permeio
@@ -7049,7 +7047,6 @@
 1 peixes
 1 peitos
 1 peitoril
-1 peitoestiveram
 1 peitando
 1 peiorou
 1 pego-te
@@ -7143,7 +7140,6 @@
 1 pantominice
 1 pantanos
 1 pantafaçudo
-1 pannotome
 1 panninho
 1 panico
 1 pandulho
@@ -7191,12 +7187,9 @@
 1 ouvirem
 1 ouvira
 1 ouvio-lhe
-1 ouvioe
 1 ouvindo-o
-1 ouvidofacilita
 1 ouvida
 1 ouviam-na
-1 outrofranzino
 1 outdated
 1 ourives
 1 others
@@ -7417,7 +7410,6 @@
 1 multiplicavam-lhe
 1 multiplicado
 1 mulherzinha
-1 mulhero
 1 mulherio
 1 mulheril
 1 mudos
@@ -7697,8 +7689,6 @@
 1 mandioca
 1 mandibula
 1 mandava
-1 mandasseprincipiava
-1 mandasse
 1 mandar-me
 1 mandar-lhe
 1 mandando
@@ -7717,7 +7707,6 @@
 1 maldizer-se
 1 maldizencia
 1 maldições
-1 maldevia
 1 makes
 1 maiores
 1 maintaining
@@ -7798,7 +7787,6 @@
 1 loteria
 1 loose
 1 longinquo
-1 longee
 1 long
 1 loja
 1 lodosa
@@ -7919,11 +7907,9 @@
 1 lavoura
 1 lavou
 1 lavava-se
-1 lavavapassa-me
 1 lavasse
 1 lavanderia
 1 lavagens
-1 láumas
 1 latim
 1 lateral
 1 latejava-lhe
@@ -8029,7 +8015,6 @@
 1 jacto
 1 jacarandá
 1 jaboti
-1 issoacabou-se
 1 isolando-as
 1 isolador
 1 isento
@@ -8097,7 +8082,7 @@
 1 interpreted
 1 interminavelmente
 1 interminaveis
-1 interlocutorali
+1 interlocutor
 1 interessante
 1 interessados
 1 intercedendo
@@ -8121,7 +8106,6 @@
 1 instigada
 1 instaurara
 1 instantes
-1 instanteespera
 1 instancia
 1 installavam-se
 1 installarem
@@ -8298,11 +8282,8 @@
 1 identification
 1 identico
 1 identica
-1 idealsetenta
-1 idealo
 1 idealisar
 1 ideaes
-1 iasahe
 1 hypotheses
 1 hypothecando-se
 1 hypertext
@@ -8330,8 +8311,6 @@
 1 honrada
 1 homicidas
 1 homenzinhos
-1 homeme
-1 hombroelles
 1 hombridade
 1 hombreira
 1 hold
@@ -8461,7 +8440,6 @@
 1 germinava
 1 gentinha
 1 gentes
-1 gentecom
 1 genital
 1 gengibirra
 1 generously
@@ -8562,7 +8540,6 @@
 1 freguezas
 1 frascos
 1 frasco
-1 franzino
 1 franzina
 1 franqueou-lhe
 1 franqueou
@@ -8610,7 +8587,6 @@
 1 fomos
 1 follow
 1 folgadores
-1 foiquem
 1 foi-lhes
 1 foguetes
 1 fogueteiro
@@ -8627,8 +8603,6 @@
 1 florões
 1 flôrinhas
 1 florestas
-1 flore
-1 flor
 1 flexivel
 1 flanella
 1 flamula
@@ -8905,7 +8879,6 @@
 1 evadido
 1 eust
 1 europeu
-1 euarrancava
 1 eterna
 1 esvoaçava
 1 esvaziou-lhe
@@ -9190,7 +9163,6 @@
 1 erguendo-o
 1 erguel-a
 1 eras
-1 eraquem
 1 equilibravam-se
 1 equilibrado
 1 enxuto
@@ -9238,7 +9210,6 @@
 1 entregar-m'a
 1 entregar-lhe
 1 entregaram
-1 entregaprompto
 1 entregando-lhe
 1 entreabrir-lhe
 1 entravam-lhe
@@ -9317,7 +9288,6 @@
 1 engordurado
 1 engommava
 1 engommasse
-1 engommadoe
 1 engolira
 1 engolir
 1 engolio
@@ -9404,7 +9374,7 @@
 1 encarnadas
 1 encardidas
 1 encarava
-1 encararum
+1 encarar
 1 encarapinhado
 1 encarando
 1 encaracolada
@@ -9451,8 +9421,6 @@
 1 empenhamos
 1 empenhados
 1 emparelhar
-1 empafiahouvesse
-1 empafia
 1 empadinhas
 1 emmudeceram
 1 emmaranhada
@@ -9616,8 +9584,6 @@
 1 dissessem
 1 dissera-lhe
 1 dissemos
-1 disse-lhecamarada
-1 disseatire-se
 1 disputavam
 1 disputava
 1 disputar
@@ -9691,7 +9657,6 @@
 1 different
 1 dictava
 1 dicendi
-1 diastanto
 1 diariamente
 1 diamante
 1 dialogados
@@ -10028,7 +9993,6 @@
 1 denunciava
 1 denunciar
 1 denuncia
-1 dentroolha
 1 dentadas
 1 dê-nos
 1 dendem
@@ -10061,7 +10025,6 @@
 1 deixou-te
 1 deixou-me
 1 deixou-lhe
-1 deixouestava
 1 deixo-o
 1 deixe-se
 1 deixemos
@@ -10260,7 +10223,6 @@
 1 corredia
 1 corporation
 1 corporações
-1 corpomas
 1 coroas
 1 coroados
 1 coroado
@@ -10274,7 +10236,6 @@
 1 coral
 1 corajosos
 1 coradoiros
-1 coraçãopor
 1 copiosamente
 1 copinho
 1 copagem
@@ -10510,7 +10471,6 @@
 1 commoviam
 1 commovia
 1 commovêra
-1 commodoe
 1 committed
 1 commettia
 1 commetter
@@ -10633,7 +10593,6 @@
 1 chores
 1 chore
 1 choravam
-1 choravaagora
 1 choras
 1 choraram
 1 choramingar
@@ -10674,6 +10633,7 @@
 1 chegava-se
 1 chegavam-se
 1 chegava-lhes
+1 chega-te
 1 chegasse
 1 chegas
 1 chegarmos
@@ -10689,8 +10649,6 @@
 1 charges
 1 charco
 1 chaos
-1 chãoque
-1 chãoe
 1 chanta
 1 change
 1 chamou-a
@@ -10806,7 +10764,7 @@
 1 carroção
 1 carroagem
 1 carrinho
-1 carretopodes
+1 carreto
 1 carregue
 1 carregas-me
 1 carregára-se
@@ -10818,8 +10776,6 @@
 1 carpir
 1 carpinteiros
 1 caros
-1 carnudoelle
-1 carnudo
 1 carnuda
 1 carneiro
 1 carnavalescas
@@ -10888,7 +10844,6 @@
 1 camadas
 1 camada
 1 calva
-1 calorque
 1 calôr
 1 calogio
 1 calmo
@@ -10952,7 +10907,6 @@
 1 cabimento
 1 caber-lhe-ia
 1 cabelludos
-1 cabellosporque
 1 cabellinho
 1 cabecear
 1 cabalistica
@@ -11111,7 +11065,6 @@
 1 beliscou
 1 beijou-o
 1 beijou-lhe
-1 beijoo
 1 beijando-lhe
 1 begonias
 1 beginning
@@ -11141,7 +11094,6 @@
 1 bastara
 1 basta
 1 barulhentas
-1 barrigajá
 1 barretina
 1 barraquinhas
 1 barra
@@ -11151,8 +11103,6 @@
 1 barbara
 1 barateavam
 1 baratas
-1 barãobarãosentio
-1 barão
 1 baque
 1 baptisados
 1 banzeiro
@@ -11183,7 +11133,6 @@
 1 balança
 1 balaios
 1 baixote
-1 baixaesta
 1 baixado
 1 bainha
 1 baiacú
@@ -11450,7 +11399,6 @@
 1 arrancavam-lhe
 1 arrancavam
 1 arrancava-lhe
-1 arrancava
 1 arranca-se
 1 arrancaram
 1 arrancando-lhe
@@ -11713,7 +11661,6 @@
 1 amára
 1 amantes
 1 amanheceria
-1 amanhãum
 1 amamentavam
 1 amaldiçoou
 1 amaldiçoando-se
@@ -11864,7 +11811,7 @@
 1 agarrou-a
 1 agarrava-lhe
 1 agarrar-lhe
-1 agarrarestava
+1 agarrar
 1 agarrando-se
 1 agarrando
 1 agarral-o
@@ -12024,7 +11971,7 @@
 1 achamalotada
 1 acham
 1 acertar
-1 acertadoter
+1 acertado
 1 acercar-se
 1 aceitava-o
 1 aceitavam
@@ -12144,7 +12091,6 @@
 1 abalaram
 1 abalando
 1 abaixou-se
-1 abaixoa
 1 abaixando-se
 1 abafe-se
 1 abafava

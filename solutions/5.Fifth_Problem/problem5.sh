@@ -12,8 +12,8 @@ cont=1
 sorted=$(sed 's/,/ /' ../4.Fourth_Problem/vocabulario.txt | awk '{temp=$1; $1=$2; $2=temp; print}' | sort -n -r)
 echo "$sorted" > sorted.txt
 
-#Salva as palavras antigas sem pontuacao e acentos, somente minusculas
-olds=$(sort ../../palavras_antigas.lst | sed 'y/áÁàÀãÃâÂéÉêÊíÍóÓõÕôÔúÚçÇ/aaaaaaaaeeeeiioooooouucc/' | tr -d '[:punct:]' | tr '[:upper:]' '[:lower:]' | uniq)
+#Salva as palavras antigas sem pontuacao, somente minusculas
+olds=$(sort ../../palavras_antigas.lst | tr '[:upper:]' '[:lower:]' | uniq)
 
 #Passa pelas n mais repetidas, adicionando seu valor a tabela
 while [ $cont -le $n ]; do
